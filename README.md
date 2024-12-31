@@ -1,1 +1,1 @@
-# AHRS
+# AHRS using MPU 9250 9-DOF IMU
