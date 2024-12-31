@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  AHRS_MPU9250.cpp
+AHRS_MPU9250.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Aided_AHRS.vcxproj -> D:\Project_1\Fiverr_Projects\Project_1_MPU9250_AHRS_done\C\Aided_AHRS_Naseem\Debug\Aided_AHRS.exe
