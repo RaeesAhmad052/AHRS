@@ -1,0 +1,6 @@
+﻿  AHRS_MPU9250.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : fatal error LNK1207: incompatible PDB format in 'D:\Project_1\Fiverr_Projects\Project_1_MPU9250_AHRS_done\C\MPU9250\Aided_AHRS_Naseem\Release\Aided_AHRS.pdb'; delete and rebuild

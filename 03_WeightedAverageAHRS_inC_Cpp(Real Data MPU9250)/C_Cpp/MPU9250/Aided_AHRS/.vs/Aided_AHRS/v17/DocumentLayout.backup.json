@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_1\\Fiverr_Projects\\Project_1_MPU9250_AHRS_done\\C\\MPU9250\\Aided_AHRS_Naseem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2E435F-C8F4-4CC8-89B5-11A5E43DAD23}|Aided_AHRS\\Aided_AHRS.vcxproj|D:\\Project_1\\Fiverr_Projects\\Project_1_MPU9250_AHRS_done\\C\\MPU9250\\Aided_AHRS_Naseem\\Aided_AHRS\\AHRS_MPU9250.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E2E435F-C8F4-4CC8-89B5-11A5E43DAD23}|Aided_AHRS\\Aided_AHRS.vcxproj|solutionrelative:Aided_AHRS\\AHRS_MPU9250.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AHRS_MPU9250.cpp",
+              "DocumentMoniker": "D:\\Project_1\\Fiverr_Projects\\Project_1_MPU9250_AHRS_done\\C\\MPU9250\\Aided_AHRS_Naseem\\Aided_AHRS\\AHRS_MPU9250.cpp",
+              "RelativeDocumentMoniker": "Aided_AHRS\\AHRS_MPU9250.cpp",
+              "ToolTip": "D:\\Project_1\\Fiverr_Projects\\Project_1_MPU9250_AHRS_done\\C\\MPU9250\\Aided_AHRS_Naseem\\Aided_AHRS\\AHRS_MPU9250.cpp",
+              "RelativeToolTip": "Aided_AHRS\\AHRS_MPU9250.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T16:56:09.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
